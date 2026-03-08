@@ -1,0 +1,31 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "DreamNet Alchemist",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_52b31f7f-523c-4d9a-8696-e9e57fb59e3f-3FMvoDSYNpIszENPVkTmg4DTSMFGy0",
+    "homeUrl": "https://church-silver-242.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_52b31f7f-523c-4d9a-8696-e9e57fb59e3f-3FMvoDSYNpIszENPVkTmg4DTSMFGy0",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "DreamNet Alchemist",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_52b31f7f-523c-4d9a-8696-e9e57fb59e3f-3FMvoDSYNpIszENPVkTmg4DTSMFGy0"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE0NzcxNDIsInR5cGUiOiJhdXRoIiwia2V5IjoiMHg3RDc5RTkwMjQ4MjQ2OWRBNjQ5NzdkMkIwOTc3MTIwQzc3MDI5NTkzIn0",
+    "payload": "eyJkb21haW4iOiJjaHVyY2gtc2lsdmVyLTI0Mi5hcHAub2hhcmEuYWkifQ",
+    "signature": "6Q92sty/B60t14KVhTo+PUPBvyXfmNiwgknp2gy+oUFM/GRNGyQjqNGRdzrNFgBdfNQ/v3sYPb8DiXv+0O/Q3hw="
+  }
+}
