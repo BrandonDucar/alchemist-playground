@@ -5,7 +5,7 @@
  * ================================================================================
  */
 
-const API_KEY = 'secret_cm915c66b00023b6r51yc9cw3';
+const API_KEY = process.env.OPENAI_API_KEY || '';
 
 // Supported image sizes per model
 type GPTImageSize = '1024x1024' | '1536x1024' | '1024x1536' | 'auto';
